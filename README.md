@@ -1,0 +1,2 @@
+# Image-Compression-Using-ChainCoding
+Chain code is a lossless compression technique used for representing an object in images. The co-ordinates of any continuous boundary of an object can be represented as a string of numbers where each number represents a particular direction in which the next point on the connected line is present. One point is taken as the reference/starting point and on plotting the points generated from the chain, the original figure can be re-drawn.-Geeksforgeeks
